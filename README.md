@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psr88544&label=Profile%20views&color=0e75b6&style=flat" alt="psr88544" /> </p>
 
 
-- 🔭 I’m currently working on **Generative AI using LLM**
+- 🔭 I’m currently working on **Local ChatBot**
 
-- 🌱 I’m currently learning **Qiskit**
+- 🌱 I’m currently learning **Qiskit and Generavitive AI**
 
 - 📫 How to reach me **prathamsrawat63@gmail.com**
 
