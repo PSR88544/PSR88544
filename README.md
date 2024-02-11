@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Pratham Rawat</h1>
-<h3 align="left">A Low-Grade Polymath with a Particular Curiosity for New Technologies.🙂 </h3>
+<h3 align="left"> 🙂 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psr88544&label=Profile%20views&color=0e75b6&style=flat" alt="psr88544" /> </p>
 
